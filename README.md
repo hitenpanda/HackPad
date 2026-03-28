@@ -56,7 +56,7 @@ To ensure perfect reproducibility and a stable version control pipeline, this pr
 *   **EDA (Electronics):** KiCad 9.0 (Schematic & PCB layout).
 *   **MCAD (Mechanics):** Autodesk Fusion 360 (Parametric 3D modeling).
 *   **Version Control:** Git/GitHub via Windows PowerShell.
-*   **Upstream Link:** Pushed via `git push --set-upstream origin main`.
+*   **Upstream Link:** Pushed via `git push origin main`.
 
 ---
 
@@ -86,6 +86,7 @@ The enclosure is currently engineered as a **Lower Tray**, intended to be paired
 *   **📝 Journal Entry: Stack-up Analysis**  
     *The original wall height was arbitrarily set to 16.0 mm. After performing a physical Stack-up Analysis in the CAD environment (Standoff [4mm] + PCB [1.6mm] + Switch Housing), I determined 16.0 mm caused severe interference. Using the parametric timeline, I reduced the height to **8.0 mm**.* 
 *   **Aesthetic Impact:** 8.0 mm perfectly covers the internal gap and the rough PCB edge, while leaving the upper switch housings exposed. This results in a clean **"Floating Key"** aesthetic and leaves exact clearance for a future top lid.
+*   **Plan Changes:** I dropped the idea to create the top lid, that would close the whole enclosure. It is now an open design with all the internals visible. Also, it would be translucent back for proper LED diffusion effect.
 
 ---
 
