@@ -14,11 +14,16 @@
 ---
 
 ## 📑 Table of Contents
-1.[Project Overview](#-project-overview)
+1. [Project Overview](#-project-overview)
+
 2. [Development Environment](#-development-environment)
-3.[Mechanical Engineering Log](#-mechanical-engineering-log-tray-design)
+
+3. [Mechanical Engineering Log](#-mechanical-engineering-log-tray-design)
+
 4. [Parametric Workflow & Logic](#-parametric-workflow--logic)
+
 5. [Current Roadmap & Pending Tasks](#-current-roadmap--pending-tasks)
+
 6. [Repository Structure](#-repository-structure)
 
 ---
