@@ -6,16 +6,16 @@ A custom parametric mechanical macropad powered by the Seeed Studio XIAO RP2040.
 
 ### Schematic
 | :--- | :---: |
-![Schematic](./Images/Schematics.png)
+| ![Schematic](./Images/Schematics.png) |
 
 ### PCB
 | :--- | :---: |
-![PCB Layout](./Images/PCB.png)
+| ![PCB Layout](./Images/PCB.png) |
 
 ### Case Assembly
 | :--- | :---: |
-![Case Design](./Images/Enclosure.png)
-*The enclosure is a parametric Lower Tray model built perfectly to fit the PCB outline. It uses a 2.0mm offset, 4.0mm standoffs, and 8.0mm walls for a clean "Floating Key" aesthetic.*
+| ![Case Design](./Images/Enclosure.png) |
+|  *The enclosure is a parametric Lower Tray model built perfectly to fit the PCB outline. It uses a 2.0mm offset, 4.0mm standoffs, and 8.0mm walls for a clean "Floating Key" aesthetic.* |
 
 ---
 
