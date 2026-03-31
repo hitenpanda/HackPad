@@ -3,6 +3,8 @@
 A custom parametric mechanical macropad powered by the Seeed Studio XIAO RP2040. Designed, routed in KiCad, and modeled in Fusion 360 for the Hack Club Blueprint initiative.
 
 ## Images
+### Overall Look
+![Overall](./Images/Final_Look.png)
 
 ### Schematic
 ![Schematic](./Images/Schematics.png)
